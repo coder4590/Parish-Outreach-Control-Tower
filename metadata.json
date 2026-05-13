@@ -1,0 +1,7 @@
+{
+  "name": "Parish Outreach Control Tower",
+  "description": "Automated lead generation, needs detection, and AI outreach for religious organizations. Integrated with GoHighLevel.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
